@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Scarlett Black"
   avatar : "/assets/images/SB-headshot.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a senior at Charlotte Latin School and will be pursuing Biomedical Engineering in College."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,7 +68,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Scarletteblack"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
